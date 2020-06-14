@@ -86,7 +86,7 @@ if (isset($template1)) {
 		
 		?>
 
-        <form action="btnclick1.php" method="get">
+        <form action="Save.php" method="get">
         	<p>Please check the configuration.</p>    
 			<input type="submit" name="Save" value="Save">	
         </form>
